@@ -1,7 +1,7 @@
 ## 🚀 Quick Inference
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base).
-- Download the checkpoint and DAPE models from [GoogleDrive](https://drive.google.com/drive/folders/12HXrRGEXUAnmHRaf0bIn-S8XSK4Ku0JO?usp=drive_link) or [OneDrive](https://connectpolyu-my.sharepoint.com/:f:/g/personal/22042244r_connect_polyu_hk/EiUmSfWRmQFNiTGJWs7rOx0BpZn2xhoKN6tXFmTSGJ4Jfw?e=RdLbvg).
+- Download the checkpoint and DAPE models from [GoogleDrive](https://drive.google.com/file/d/1pix7Qzaip6G5lqSYZYjRJUfO1H7CpXAS/view?usp=sharing) or [OneDrive](https://connectpolyu-my.sharepoint.com/:f:/g/personal/22042244r_connect_polyu_hk/EiUmSfWRmQFNiTGJWs7rOx0BpZn2xhoKN6tXFmTSGJ4Jfw?e=RdLbvg).
 
 You can put the models into `preset/models`.
 
