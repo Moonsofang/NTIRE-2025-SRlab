@@ -17,7 +17,7 @@ conda activate srlab
 ## 🚀 Quick Inference
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base)
-- Download the checkpoint, sam2 and DAPE models from [GoogleDrive](https://drive.google.com/drive/folders/1Ce0D8R99t-fDQfACLc8SGvf3gzdMnTwT?usp=sharing).
+- Download the checkpoint, sam2.1_hiera_tiny, ram_swin_large and DAPE models from [GoogleDrive](https://drive.google.com/drive/folders/1Ce0D8R99t-fDQfACLc8SGvf3gzdMnTwT?usp=sharing).
 
 You can put the models into `preset/models`.
 
