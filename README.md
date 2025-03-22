@@ -62,7 +62,7 @@ More details are [here](asserts/hyp.md)
 Will release soon.
 
 ## ❤️ Acknowledgments
-This project is based on [diffusers](https://github.com/huggingface/diffusers) and [SeeSR](https://github.com/cswry/SeeSR). Some codes are brought from [PASD](https://github.com/yangxy/PASD), [RAM](https://github.com/xinyu1205/recognize-anything) and [SAM2](https://github.com/cswry/SeeSR). Thanks for their awesome works. We also pay tribute to the pioneering work of [StableSR](https://github.com/IceClear/StableSR).
+This project is based on [diffusers](https://github.com/huggingface/diffusers) and [SeeSR](https://github.com/cswry/SeeSR). Some codes are brought from [PASD](https://github.com/yangxy/PASD), [RAM](https://github.com/xinyu1205/recognize-anything) and [SAM2](https://github.com/facebookresearch/sam2)). Thanks for their awesome works. We also pay tribute to the pioneering work of [StableSR](https://github.com/IceClear/StableSR).
 
 ## 📧 Contact
 If you have any questions, please feel free to contact: `ly5825761@gmail.com`
