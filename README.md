@@ -1,3 +1,19 @@
+## ⚙️ Dependencies and Installation
+```
+## git clone this repository
+git clone https://github.com/Moonsofang/NTIRE-2025-SRlab
+cd SRlab
+
+# create an environment with python >= 3.8
+conda create -n srlab python=3.8
+conda activate srlab
+pip install -r requirements.txt
+
+# or you can directly install the environment by following instruct
+conda env create -f srlab.yml
+conda activate srlab
+```
+
 ## 🚀 Quick Inference
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base)
