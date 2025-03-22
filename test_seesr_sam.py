@@ -180,7 +180,7 @@ def get_validation_prompt(args, image, model, device='cuda'):
 
 def load_sam_model(device='cuda'):#0.03B
     
-    sam2_checkpoint = "/media/ssd8T/wyw/Pretrained/SAM2/sam2.1_hiera_tiny.pt"
+    sam2_checkpoint = "./preset/models/sam2.1_hiera_tiny.pt"
     model_cfg = "configs/sam2.1/sam2.1_hiera_t.yaml"
     sam2 = build_sam2(model_cfg, sam2_checkpoint, mode="eval", device='cuda', apply_postprocessing=False)
     sam2.to(device)
