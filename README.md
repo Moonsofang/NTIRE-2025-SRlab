@@ -2,7 +2,7 @@
 ```
 ## git clone this repository
 git clone https://github.com/Moonsofang/NTIRE-2025-SRlab
-cd SRlab
+cd NTIRE-2025-SRlab
 
 # create an environment with python >= 3.8
 conda create -n srlab python=3.8
