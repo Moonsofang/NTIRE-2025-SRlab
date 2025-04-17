@@ -1,3 +1,12 @@
+## Enhanced Semantic Extraction and Guidance for UGC Image Super Resolution
+
+Yiwen Wang<sup>1</sup> | Ying Liang<sup>1</sup> | Yuxuan Zhang<sup>1</sup> | Xinning Chai<sup>1</sup> | Zhengxue Cheng<sup>1</sup> | Yingsheng Qin<sup>2</sup>
+| Yucai Yang<sup>2</sup> | Rong Xie<sup>1</sup> | Li Song<sup>1</sup>
+
+<sup>1</sup>Shanghai Jiao Tong University, China, <sup>2</sup>Transsion, China
+
+[paper address](https://arxiv.org/abs/2504.09887)
+
 ## ⚙️ Dependencies and Installation
 ```
 ## git clone this repository
@@ -18,6 +27,7 @@ conda activate srlab
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base)
 - Download the checkpoint, sam2.1_hiera_tiny, ram_swin_large and DAPE models from [GoogleDrive](https://drive.google.com/drive/folders/1Ce0D8R99t-fDQfACLc8SGvf3gzdMnTwT?usp=sharing).
+- Or you can directly download these files in the [NGain/Medialab](https://huggingface.co/NGain/Medialab) repository.
 
 You can put the models into `preset/models`.
 
